@@ -1,0 +1,6 @@
+{
+  "name": "Nexo Finance",
+  "description": "Sistema completo de controle financeiro pessoal, orçamentos, faturas, metas, relatórios e assistente inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
